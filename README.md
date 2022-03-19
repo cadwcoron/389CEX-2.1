@@ -45,7 +45,7 @@ Here is an example run of the data
 
 See plot below. x acces is log scale
 
-![This is an image](images/imageA.png)
+![This is an image](imageA.png)
 
 # C
 
